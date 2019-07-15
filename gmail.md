@@ -35,4 +35,3 @@ After finishing the project upload to github with commits (Required) and publish
 ## UI
 
 [![UI](gmail.png)]()
-
