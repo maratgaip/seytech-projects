@@ -38,6 +38,9 @@ After finishing the project upload to github with commits (Required) and publish
 
 ## UI
 
+Reference:
+http://egret-react.ui-lib.com/crud-table
+
 [![UI](crud.png)]()
 
 [![UI](crud-add.png)]()
