@@ -8,7 +8,7 @@ This project is only front end part and you can hand code json api results.
 Feel free to use any kind of frameworks(Bootstrap, Foundation, etc) including LESS, SASS 
 <br>
 
-##Steps / Technologies:
+## Steps / Technologies:
 * Setup a react project with babel, webpack etc.(React starter kit)
 * HTML/CSS
 * React Components
