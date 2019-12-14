@@ -1,6 +1,6 @@
 # Fixinity CRUD Application
 
-Create a CRUD Application with user authentication
+Create a CRUD Application with an user authentication
 
 # Information
 
@@ -21,10 +21,10 @@ Feel free to use any kind of frameworks(Bootstrap, Foundation, etc) including LE
     * User should able to sort based on all rows
 * Search
     * We don't have ui, so discuss and come up with a solution how can we 
-    build search component. User should able to search by name or company
+    build search component. User should able to search by name, phone, zip or VIN number
 * Filter
     * We don't have ui, so discuss and come up with a solution.
-    User should able to filter by name/company/active-inactive
+    User should able to filter by multiple zip codes and status
 * Pagination
     * User should able to see given number of rows in a page with next/previous buttons.
 * Add/Remove/Delete
@@ -34,15 +34,14 @@ Feel free to use any kind of frameworks(Bootstrap, Foundation, etc) including LE
 
 ### Deployment
 
-After finishing the project upload to github with commits (Required) and publish heroku if possible (Optional) 
+After finishing the project you can upload to a github with commits (Required) and publish heroku if possible (Optional) 
 
 ## UI
 
-Reference:
-http://egret-react.ui-lib.com/crud-table
+[![UI](customers.png)]()
 
-[![UI](crud.png)]()
+[![UI](customers-new.png)]()
 
-[![UI](crud-add.png)]()
+[![UI](customers-update.png)]()
 
-[![UI](crud-login.png)]()
+[![UI](customers-login.png)]()
