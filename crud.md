@@ -32,6 +32,12 @@ Feel free to use any kind of frameworks(Bootstrap, Foundation, etc) including LE
     User should able to filter by multiple zip codes and status
 * Login/Logout
     * User should see only if logged in and store data in cookie or local storage.
+### Helpers
+
+const users = [
+  {id:1, name:'Stefanie', lastName:'Marsh', phone:'5555551234', zip:'96123', vin:'123123123', status:'inactive'},
+  {id:2, name:'Elena', lastName:'Bennett', phone:'5555512234', zip:'96123', vin:'123123123', status:'active'}
+]
 
 ### Deployment
 
